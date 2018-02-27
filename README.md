@@ -1,14 +1,17 @@
 # Algorithms
 Writing and reviewing basic algorithms in Node.js
 
-##Bubble Sort
+## Bubble Sort
 Sort an array of numbers or strings using bubble sort.
 
+## Selection Sort
+Sort an array of numbers or strings using selection sort.
+
 ## Merge Sort
-Add items and array of items, get and print array, and merge sort.
+Add an item, an array of items, get and print array, and merge sort.
 
 ## Binary Search
-Search sorted arrays by splitting.
+Search sorted arrays by splitting array until the midpoint equals the searched value (or returns false).
 
 ## Graph
 Add and delete vertices and edges, check size and relations, traverse, get paths, and print graphs.
