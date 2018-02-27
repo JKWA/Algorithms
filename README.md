@@ -1,16 +1,25 @@
 # Algorithms
+Writing and reviewing basic algorithms in Node.js
 
-Writing and reviewing algorithms in Node.js
+##Bubble Sort
+Sort an array of numbers or strings using bubble sort.
 
-## Graph
-
-## Binary Heap
-For creating primary queues.
+## Merge Sort
+Add items and array of items, get and print array, and merge sort.
 
 ## Binary Search
 Search sorted arrays by splitting.
 
-## Binary Search Tree
+## Graph
+Add and delete vertices and edges, check size and relations, traverse, get paths, and print graphs.
 
-## Merge Sort
-Sort by splitting large into small arrays and merging
+## Binary Search Tree
+Add nodes, contains, get depth, min, max
+
+## Binary Heap
+For creating primary queues.
+
+
+
+
+
