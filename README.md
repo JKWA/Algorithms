@@ -7,6 +7,9 @@ Sort an array of numbers or strings using bubble sort.
 ## Selection Sort
 Sort an array of numbers or strings using selection sort.
 
+## Insertion Sort
+Sort an array of numbers or strings using insertion sort.
+
 ## Merge Sort
 Add an item, an array of items, get and print array, and merge sort.
 

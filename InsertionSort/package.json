@@ -1,0 +1,17 @@
+{
+  "name": "insertion-sort",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "author": "Joseph Koski",
+  "license": "ISC",
+  "dependencies": {
+    "nodeunit": "^0.11.2"
+  }
+}
